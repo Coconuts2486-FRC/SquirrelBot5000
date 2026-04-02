@@ -7,3 +7,5 @@ The robot by default runs at half speed to avoid killing people- to double the s
 I might be stupid but I couldn't figure out how to commit easily using the Git menu inside VS, so I wrote a script to 
 add all files in the working directory, ask for a commit message, then automatically commit to the working branch.
 To use it, run `./ez-commit.sh` from the command line (provided you're inside the project directory). 
+
+To open and use the code, open `mail.sln`.
