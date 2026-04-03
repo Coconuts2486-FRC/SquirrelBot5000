@@ -101,11 +101,11 @@ namespace mail
             double speedMultiplier;
             if (speedToggle)
             {
-                speedMultiplier = 0.5;
+                speedMultiplier = 1;
             }
             else
             {
-                speedMultiplier = 1;
+                speedMultiplier = 0.5;
             }
 
             //Define throttle axes
