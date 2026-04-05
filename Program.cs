@@ -143,7 +143,7 @@ namespace mail
         {
             double rampRate = 0.08; // change per loop (tune this!)
 
-            if (! (target == 0))
+            if (! (current > 0.05))
             {
 
                 if (target > 0.2 || target < -0.2)
